@@ -1,0 +1,42 @@
+<DOCTYPE html>
+	<html>
+		<head>
+		<title> Jennine Ambrose </title>
+		</head>	
+		<body>
+		
+			<p><center> This is center</center></p>
+			<h1>This is heading 1</h1>
+				<hr>
+				
+			<h2>My favourite movies</h2>
+				<ul>	
+					<li>Ironman</li>
+					<li>Batman</li>
+					<li>Superman</li>
+				</ul>
+				<hr>
+			<h3>My favourite sports</h3>
+				<ol>
+					<li>Soccer</li>
+					<li>Basketball</li>
+					<li>Baseball</li>
+				</ol>
+				<hr>
+				
+			<p><b><i> This is normal sentence</i></b></p>
+					<hr>
+					
+				<p>This is Ironman</p>
+					
+				<img src = "http://vignette3.wikia.nocookie.net/ironman/images/4/4f/Photo(1073).png/revision/latest?cb=20150417140445" height="500" width="500" >
+		
+				<br>
+				
+				<a href="http://vignette3.wikia.nocookie.net/ironman/images/4/4f/Photo(1073).png/revision/latest?cb=20150417140445"> This is a photo of Ironman</a>
+				
+				<br>
+				
+				<a href="new1.html"> Link here</a>
+		</body>
+	</html>		
